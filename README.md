@@ -8,23 +8,23 @@ The tasks are available on the event page: [Everybody Codes](https://everybody.c
 
 ## Table of Contents
 
-1. [Quest 1](https://everybody.codes/event/2024/quests/1)
-2. [Quest 2](https://everybody.codes/event/2024/quests/2)
-3. [Quest 3](https://everybody.codes/event/2024/quests/3)
-4. [Quest 4](https://everybody.codes/event/2024/quests/4)
-5. [Quest 5](https://everybody.codes/event/2024/quests/5)
-6. [Quest 6](https://everybody.codes/event/2024/quests/6)
-7. [Quest 7](https://everybody.codes/event/2024/quests/7)
-8. [Quest 8](https://everybody.codes/event/2024/quests/8)
-9. [Quest 9](https://everybody.codes/event/2024/quests/9)
-10. [Quest 10](https://everybody.codes/event/2024/quests/10)
-11. [Quest 11](https://everybody.codes/event/2024/quests/11)
-12. [Quest 12](https://everybody.codes/event/2024/quests/12)
-13. [Quest 13](https://everybody.codes/event/2024/quests/13)
-14. [Quest 14](https://everybody.codes/event/2024/quests/14)
-15. [Quest 15](https://everybody.codes/event/2024/quests/15)
-16. [Quest 16](https://everybody.codes/event/2024/quests/16)
-17. [Quest 17](https://everybody.codes/event/2024/quests/17)
-18. [Quest 18](https://everybody.codes/event/2024/quests/18)
-19. [Quest 19](https://everybody.codes/event/2024/quests/19)
-20. [Quest 20](https://everybody.codes/event/2024/quests/20)
+1. <a href="https://everybody.codes/event/2024/quests/1" target="_blank">Quest 1</a>
+2. <a href="https://everybody.codes/event/2024/quests/2" target="_blank">Quest 2</a>
+3. <a href="https://everybody.codes/event/2024/quests/3" target="_blank">Quest 3</a>
+4. <a href="https://everybody.codes/event/2024/quests/4" target="_blank">Quest 4</a>
+5. <a href="https://everybody.codes/event/2024/quests/5" target="_blank">Quest 5</a>
+6. <a href="https://everybody.codes/event/2024/quests/6" target="_blank">Quest 6</a>
+7. <a href="https://everybody.codes/event/2024/quests/7" target="_blank">Quest 7</a>
+8. <a href="https://everybody.codes/event/2024/quests/8" target="_blank">Quest 8</a>
+9. <a href="https://everybody.codes/event/2024/quests/9" target="_blank">Quest 9</a>
+10. <a href="https://everybody.codes/event/2024/quests/10" target="_blank">Quest 10</a>
+11. <a href="https://everybody.codes/event/2024/quests/11" target="_blank">Quest 11</a>
+12. <a href="https://everybody.codes/event/2024/quests/12" target="_blank">Quest 12</a>
+13. <a href="https://everybody.codes/event/2024/quests/13" target="_blank">Quest 13</a>
+14. <a href="https://everybody.codes/event/2024/quests/14" target="_blank">Quest 14</a>
+15. <a href="https://everybody.codes/event/2024/quests/15" target="_blank">Quest 15</a>
+16. <a href="https://everybody.codes/event/2024/quests/16" target="_blank">Quest 16</a>
+17. <a href="https://everybody.codes/event/2024/quests/17" target="_blank">Quest 17</a>
+18. <a href="https://everybody.codes/event/2024/quests/18" target="_blank">Quest 18</a>
+19. <a href="https://everybody.codes/event/2024/quests/19" target="_blank">Quest 19</a>
+20. <a href="https://everybody.codes/event/2024/quests/20" target="_blank">Quest 20</a>
