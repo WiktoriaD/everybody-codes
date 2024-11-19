@@ -1,0 +1,6 @@
+Y:E,I,I
+A:U,Y
+O:U,A,A
+E:O,U
+U:I,A,A
+I:O,O
